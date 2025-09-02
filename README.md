@@ -1,0 +1,1 @@
+PandaETL is an open-source, no-code ETL (Extract, Transform, Load) tool designed to extract and parse data from various document types including PDFs, emails, websites, audio files, and more. With an intuitive interface and powerful backend, PandaETL simplifies the process of data extraction and transformation, making it accessible to users without programming skills.
